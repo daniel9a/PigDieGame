@@ -22,8 +22,8 @@ document.querySelector('.btn-roll').addEventListener('click', function () {
         //2. Display result
         document.getElementById('dice-1').style.display = 'block';
         document.getElementById('dice-2').style.display = 'block';
-        document.getElementById('dice-1').src = 'dice-' + dice1 + '.png';
-        document.getElementById('dice-2').src = 'dice-' + dice2 + '.png';
+        document.getElementById('dice-1').src = 'piggame/dice-' + dice1 + '.png';
+        document.getElementById('dice-2').src = 'piggame/dice-' + dice2 + '.png';
 
         //3. update the round score IF the rolled number was not a 1
         if (dice1 !== 1 && dice2 !== 1) {
