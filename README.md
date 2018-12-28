@@ -6,6 +6,8 @@ This is an implementation of a dice rolling game called the "pig game"
 This code is implemente in HTML/CSS/Javascript
 Html context and css style is changed using Javascript DOM manipulation. 
 
+[Live Demo](https://daniel9a.github.io/PigDieGame/)
+
 ![](screenshots/GameScreenshot.png)
 
 **GAME RULES:**
